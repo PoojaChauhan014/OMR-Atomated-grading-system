@@ -2,7 +2,7 @@
 
  OMRChecker
 
- Author: Udayraj Deshmukh
+ Author: Pooja Chauhan
  Github: https://github.com/Udayraj123
 
 """
